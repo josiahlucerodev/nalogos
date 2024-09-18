@@ -1,0 +1,5 @@
+color: ff8998ff
+primary font base: Arial Heavy Black 
+secondary font: Century Gothic 
+moto: Fastination In The Complex
+
