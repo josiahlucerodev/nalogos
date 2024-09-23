@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="67.351921"
-     inkscape:cy="22.715806"
+     inkscape:zoom="11.313708"
+     inkscape:cx="18.031224"
+     inkscape:cy="10.385631"
      inkscape:window-width="1920"
      inkscape:window-height="1171"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g54"
      showguides="true" />
   <defs
      id="defs1">
@@ -111,25 +111,24 @@
        id="rect1" />
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-7.4941408,-8.0644533)">
-    <g
-       id="g54"
-       inkscape:label="N">
-      <path
-         style="font-weight:bold;font-size:33.5118px;font-family:Ebrima;-inkscape-font-specification:'Ebrima, Bold';fill:#ff99ac;stroke-width:1.00535"
-         d="m 7.5371096,13.845704 -0.035156,15.474609 a 2.9723677,2.9723677 0 0 0 2.9707034,2.978516 h 2.751953 v -9.671875 z"
-         id="path41" />
-      <path
-         style="font-weight:bold;font-size:33.5118px;font-family:Ebrima;-inkscape-font-specification:'Ebrima, Bold';fill:#ff99ac;stroke-width:1.00535"
-         d="M 23.802735,8.0644533 V 18.091797 l 5.470703,8.308594 0.220704,-15.576172 A 2.7217152,2.7217152 0 0 0 26.773438,8.0644533 Z"
-         id="path32" />
-      <path
-         style="font-weight:bold;font-size:33.5118px;font-family:Ebrima;-inkscape-font-specification:'Ebrima, Bold';fill:#ff99ac;stroke-width:1.00535"
-         d="M 7.4941408,8.0644533 23.507813,32.300782 h 6.025391 L 13.519532,8.0644533 Z"
-         id="path31" />
-    </g>
+     id="g54"
+     inkscape:label="N"
+     transform="translate(-7.4941406,-8.0644531)">
+    <path
+       style="font-weight:bold;font-size:33.5118px;font-family:Ebrima;-inkscape-font-specification:'Ebrima, Bold';fill:#ff99ac;stroke-width:1.00535"
+       d="M 23.802735,8.0644533 V 18.091797 l 5.692036,8.308594 V 10.824219 C 29.51599,9.3066156 28.29119,8.0648689 26.773438,8.0644533 Z"
+       id="path32"
+       sodipodi:nodetypes="cccccc"
+       inkscape:label="right" />
+    <path
+       style="font-weight:bold;font-size:33.5118px;font-family:Ebrima;-inkscape-font-specification:'Ebrima, Bold';fill:#ff99ac;stroke-width:1.00535"
+       d="M 7.4941408,8.0644533 23.507813,32.300782 h 6.025391 L 13.519532,8.0644533 Z"
+       id="path31"
+       inkscape:label="center" />
+    <path
+       style="font-weight:bold;font-size:33.5118px;font-family:Ebrima;-inkscape-font-specification:'Ebrima, Bold';fill:#ff99ac;stroke-width:1.00535"
+       d="m 7.5371096,13.845704 -0.035156,15.474609 a 2.9723677,2.9723677 0 0 0 2.9707034,2.978516 h 2.751953 v -9.671875 z"
+       id="path41"
+       inkscape:label="right" />
   </g>
 </svg>

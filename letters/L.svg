@@ -59,16 +59,21 @@
        id="rect1" />
   </defs>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="L"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-253.24513,-8.0644723)">
     <path
-       d="m 258.69088,22.361552 9e-5,-14.4668443 h 6.38576 V 22.361552 Z m 16.70578,3.655566 v 5.427848 l -16.70584,0.0011 0.0452,-5.428948 z"
-       id="text1"
        style="font-weight:900;font-size:32.9012px;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';fill:#ff99ac;fill-opacity:1;stroke-width:2.74177"
-       aria-label="L"
-       sodipodi:nodetypes="cccccccccc"
-       transform="scale(0.97894905,1.0215036)" />
+       d="m 275.39666,26.017118 v 5.427848 l -16.70584,0.0011 0.0452,-5.428948 z"
+       transform="scale(0.97894905,1.0215036)"
+       id="path1"
+       inkscape:label="bottom" />
+    <path
+       style="font-weight:900;font-size:32.9012px;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';fill:#ff99ac;fill-opacity:1;stroke-width:2.74177"
+       d="m 258.69088,22.361552 9e-5,-14.4668443 h 6.38576 V 22.361552 Z"
+       transform="scale(0.97894905,1.0215036)"
+       id="text1"
+       inkscape:label="top" />
   </g>
 </svg>

@@ -25,13 +25,13 @@
      inkscape:document-units="mm"
      inkscape:zoom="5.6568542"
      inkscape:cx="42.779961"
-     inkscape:cy="22.715806"
+     inkscape:cy="22.892582"
      inkscape:window-width="1920"
      inkscape:window-height="1171"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg1"
      showguides="true" />
   <defs
      id="defs1">
@@ -111,22 +111,18 @@
        id="rect1" />
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-32.120286,-8.0631332)">
-    <g
-       id="g58"
-       inkscape:label="A"
-       transform="translate(-83.024254,-0.00132015)">
-      <path
-         style="font-weight:bold;font-size:33.5118px;font-family:Ebrima;-inkscape-font-specification:'Ebrima, Bold';fill:#ff99ac;stroke-width:1.00535"
-         d="m 127.30274,27.726563 a 0.88470913,0.88470913 0 0 0 -0.83789,0.597657 l -1.82422,5.335937 a 1.6728588,1.6728588 0 0 0 1.58203,2.214844 h 2.30469 a 1.5690571,1.5690571 0 0 0 1.48437,-2.076172 l -1.87109,-5.474609 a 0.88470913,0.88470913 0 0 0 -0.83789,-0.597657 z"
-         id="path54" />
-      <path
-         style="font-weight:bold;font-size:33.5118px;font-family:Ebrima;-inkscape-font-specification:'Ebrima, Bold';fill:#ff99ac;stroke-width:1.00535"
-         d="m 124.09571,8.0644533 -8.95117,24.2343757 h 6.29882 l 5.26953,-15.40625 a 0.95008146,0.95008146 0 0 1 1.79688,0 l 5.27148,15.40625 h 6.46094 L 131.29102,8.0644533 Z"
-         id="path33" />
-    </g>
+     id="g58"
+     inkscape:label="A"
+     transform="translate(-115.14454,-8.0644531)">
+    <path
+       style="font-weight:bold;font-size:33.5118px;font-family:Ebrima;-inkscape-font-specification:'Ebrima, Bold';fill:#ff99ac;stroke-width:1.00535"
+       d="m 127.30274,27.726563 a 0.88470913,0.88470913 0 0 0 -0.83789,0.597657 l -1.82422,5.335937 a 1.6728588,1.6728588 0 0 0 1.58203,2.214844 h 2.30469 a 1.5690571,1.5690571 0 0 0 1.48437,-2.076172 l -1.87109,-5.474609 a 0.88470913,0.88470913 0 0 0 -0.83789,-0.597657 z"
+       id="path54"
+       inkscape:label="bottom" />
+    <path
+       style="font-weight:bold;font-size:33.5118px;font-family:Ebrima;-inkscape-font-specification:'Ebrima, Bold';fill:#ff99ac;stroke-width:1.00535"
+       d="m 124.09571,8.0644533 -8.95117,24.2343757 h 6.29882 l 5.26953,-15.40625 a 0.95008146,0.95008146 0 0 1 1.79688,0 l 5.27148,15.40625 h 6.46094 L 131.29102,8.0644533 Z"
+       id="path33"
+       inkscape:label="top" />
   </g>
 </svg>

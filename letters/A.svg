@@ -25,13 +25,13 @@
      inkscape:document-units="mm"
      inkscape:zoom="5.6568544"
      inkscape:cx="-31.289474"
-     inkscape:cy="9.2807763"
+     inkscape:cy="9.4575529"
      inkscape:window-width="1920"
      inkscape:window-height="1171"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1">
     <rect
@@ -42,21 +42,18 @@
        id="rect1" />
   </defs>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-33.144527,-8.0644533)">
-    <g
-       id="g5"
-       inkscape:label="A">
-      <path
-         style="font-weight:bold;font-size:33.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';white-space:pre;fill:#ff99ac;fill-opacity:1;stroke:none;stroke-opacity:1"
-         d="m 45.302737,25.877069 -3.41992,9.998047 h 6.83984 z"
-         id="path4" />
-      <path
-         style="font-weight:bold;font-size:33.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';white-space:pre;fill:#ff99ac;fill-opacity:1;stroke:none;stroke-opacity:1"
-         d="m 42.095707,8.0644533 -8.95118,24.2343757 h 6.29883 l 6.16797,-18.035157 6.16992,18.035157 h 6.46094 L 49.291017,8.0644533 Z"
-         id="path2" />
-    </g>
+     id="g5"
+     inkscape:label="A"
+     transform="translate(-33.144527,-8.0644532)">
+    <path
+       style="font-weight:bold;font-size:33.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';white-space:pre;fill:#ff99ac;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="m 45.302737,25.877069 -3.41992,9.998047 h 6.83984 z"
+       id="path4"
+       inkscape:label="bottom" />
+    <path
+       style="font-weight:bold;font-size:33.3333px;font-family:Sans;-inkscape-font-specification:'Sans, Bold';white-space:pre;fill:#ff99ac;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="m 42.095707,8.0644533 -8.95118,24.2343757 h 6.29883 l 6.16797,-18.035157 6.16992,18.035157 h 6.46094 L 49.291017,8.0644533 Z"
+       id="path2"
+       inkscape:label="top" />
   </g>
 </svg>
